@@ -1,6 +1,6 @@
 {
   "name": "unscratcher",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Builds you a nunjucks and sass based development environment",
   "main": "index.js",
   "scripts": {
