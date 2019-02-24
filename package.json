@@ -1,0 +1,17 @@
+{
+  "name": "unscratcher",
+  "version": "1.0.0",
+  "description": "Builds you a nunjucks and sass based development environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "unscratch": "./index.js"
+  },
+  "author": "Akriti Bhusal",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
