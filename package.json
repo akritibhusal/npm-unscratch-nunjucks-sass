@@ -9,7 +9,11 @@
   "bin": {
     "unscratch": "./index.js"
   },
-  "author": "Akriti Bhusal",
+  "author": "Akriti Bhusal, Sagar Ghimire",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akritibhusal/npm-unscratch-nunjucks-sass"
+  },
   "license": "ISC",
   "dependencies": {
     "shelljs": "^0.8.3"
