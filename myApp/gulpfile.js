@@ -44,6 +44,12 @@ const njsCompile = () =>
         .pipe(nunjucks.compile({name: 'boilerplate'}))
         .pipe(gulp.dest(paths.html.dist))
 
+gulp.task('compile', done => {
+    njsCompile(),
+    sassCompile(),
+    done()
+})
+
 // Watch task
 // Watches nunjucks
 gulp.task('watch', ()=> {
