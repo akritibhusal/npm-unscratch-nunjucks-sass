@@ -1,5 +1,7 @@
 # [Unscratcher](https://www.npmjs.com/package/unscratcher)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/b24c16ed61912a81c220/maintainability)](https://codeclimate.com/github/akritibhusal/npm-unscratch-nunjucks-sass/maintainability)
+
 *Why do it from scratch when you can unscratch*
 
 Unscratcher is a starter kit for your nunjucks and SASS development.
