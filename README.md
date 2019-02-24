@@ -1,6 +1,6 @@
 # [Unscratcher](https://www.npmjs.com/package/unscratcher)
 
-*Why scratch when you can unscratch*
+*Why do it from scratch when you can unscratch*
 
 Unscratcher is a starter kit for your nunjucks and SASS development.
 
