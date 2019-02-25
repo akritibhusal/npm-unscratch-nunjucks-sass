@@ -11,12 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/akritibhusal/boilerplate.git"
   },
-  "author": "Akriti Bhusal",
+  "keywords": ["sass","nunjucks","gulp","browser-sync","environment"],
+  "author": "Akriti Bhusal and Sagar Ghimire",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/akritibhusal/boilerplate/issues"
   },
-  "keywords": ["sass","nunjucks","gulp","browser-sync","environment"],
   "homepage": "https://github.com/akritibhusal/boilerplate#readme",
   "devDependencies": {
     "autoprefixer": "^9.4.7",

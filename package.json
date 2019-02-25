@@ -9,7 +9,8 @@
   "bin": {
     "unscratch": "./index.js"
   },
-  "author": "Akriti Bhusal, Sagar Ghimire",
+  "keywords": ["sass","nunjucks","gulp","browser-sync","environment"],
+  "author": "Akriti Bhusal and Sagar Ghimire",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akritibhusal/npm-unscratch-nunjucks-sass"
